@@ -1,5 +1,5 @@
 ---
-created: 2023-11-16T16:58:29 (UTC +01:00)
+
 tags: []
 source: https://lektire.skole.hr/stranica/crvenkapica/
 author: 
