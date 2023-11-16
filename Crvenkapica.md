@@ -1,11 +1,12 @@
 ---
-created: 2023-11-16T17:00:52 (UTC +01:00)
+
 tags: []
 source: https://lektire.skole.hr/stranica/crvenkapica/
 author: 
 ---
 
 # Crvenkapica – e-Lektire
+
 
 > Bila jednom mala draga djevojčica, koju bi svatko zavolio čim bi je ugledao, a njezina je baka voljela tako da nije znala kako da djetetu ugodi. Jednom joj poklonila kapicu od crvena baršuna…
 
