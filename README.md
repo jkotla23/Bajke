@@ -25,5 +25,5 @@
 -   [Snjeguljica](https://lektire.skole.hr/stranica/snjeguljica/)
 -   [Mudri ljudi](https://lektire.skole.hr/stranica/mudri-ljudi/)
 -   [Braco i seka](https://lektire.skole.hr/stranica/braco-i-seka/)
--   [Siromašni mlinarski momčić i maca](https://lektire.skole.hr/stranica/siromasni-mlinarski-momcic-i-maca/)
+-   [Siromašni mlinarski momčić i maca](Siromašni_mlinarski_momčić_i_maca.md)
 -   [Sretni Ivo](Sretni_Ivo.md)
