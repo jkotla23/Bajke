@@ -17,7 +17,7 @@
 -   [Mirko i Milka](mirko_i_milka.md)
 -   [Crvenkapica](crvenkapica.md)
 -   [Sedam gavrana](sedam_gavrana.md)
--   [Bremenski gradski svirači](bremenski_gradski_svirači.md)
+-   [Bremenski gradski svirači](bremenski_gradski_sviraci.md)
 -   [Mudra seljanka](mudra_seljanka.md)
 -   [Trnoružica](trnoruzica.md)
 -   [Siromah i bogataš](siromah_i_bogatas.md)
