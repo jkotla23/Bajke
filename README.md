@@ -13,7 +13,7 @@
 -   [Mudra Jelka](mudra_jelka.md)
 -   [Šestorica obilaze svijetom](sestorica_obilaze_svijetom.md)
 -   [Pas i vrabac](pas_i_vrabac.md)
--   [Pepeljuga](https://lektire.skole.hr/stranica/pepeljuga-2/)
+-   [Pepeljuga](pepeljuga.md)
 -   [Mirko i Milka](https://lektire.skole.hr/stranica/mirko-i-milka/)
 -   [Crvenkapica](https://lektire.skole.hr/stranica/crvenkapica/)
 -   [Sedam gavrana](https://lektire.skole.hr/stranica/sedam-gavrana/)
