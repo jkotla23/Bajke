@@ -14,7 +14,7 @@
 -   [Šestorica obilaze svijetom](sestorica_obilaze_svijetom.md)
 -   [Pas i vrabac](pas_i_vrabac.md)
 -   [Pepeljuga](pepeljuga.md)
--   [Mirko i Milka](https://lektire.skole.hr/stranica/mirko-i-milka/)
+-   [Mirko i Milka](mirko_i_milka.md)
 -   [Crvenkapica](https://lektire.skole.hr/stranica/crvenkapica/)
 -   [Sedam gavrana](https://lektire.skole.hr/stranica/sedam-gavrana/)
 -   [Bremenski gradski svirači](https://lektire.skole.hr/stranica/bremenski-gradski-sviraci/)
